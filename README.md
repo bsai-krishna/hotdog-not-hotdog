@@ -7,8 +7,8 @@ Training has been done using around 300 images so the accuracy for certain image
 
 ## Getting started
 1. Clone and run bash on this repository. (Ensure that you have TensorFlow installed.)
-2. Then run `python label_dog.py test/bottle.jpg`
-![bottle](test/bottle.jpg)
+2. Then run `python label_dog.py test/bottle1.jpg`
+![bottle](test/bottle1.jpg)
 3. Wait for the model's prediction.
 4. Here's the result you should expect if things work correctly:
 ```
